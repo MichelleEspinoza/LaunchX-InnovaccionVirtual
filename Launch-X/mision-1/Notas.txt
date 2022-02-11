@@ -1,0 +1,14 @@
+notas:
+usar py en lugar de python
+
+#conocer version instalada(3.10)
+py --version
+
+#instalar paquetes
+py -m pip install ipywidgets
+
+#Crear entorno virtual
+python3 -m venv env
+
+#Activar entorno virtual
+env\Scripts\activate.bat
